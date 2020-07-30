@@ -1,0 +1,74 @@
+
+
+*{
+	margin: 0;
+	padding: 0;
+	scroll-behavior: smooth;
+	font-family: ;
+}
+
+#header-contect{
+	
+	border-bottom:1px solid #ddd;
+}
+
+#nav{
+	background-color: ;
+	border-bottom: ;
+	
+}
+#nav a{
+	font-size: 18px;
+	font-family: sans-serif;
+	
+}
+#nav a:hover{
+	color: #83bf44;
+	
+}
+
+
+
+.home-content{
+	background-color:#00000045;
+	padding: 150PX 0;
+	color: #fff;
+
+}
+
+
+
+
+#home-section{
+	background-color: #2196f312;
+}
+
+#about-section{
+	background-color:#8bc34a24;
+}
+
+#services-section{
+	background-color: #2196f312;
+}
+
+#doctors-section{
+	background-color:#fff;
+}
+#doctor-list img{
+	border-radius: 50%;
+	width:230px ;
+}
+@media (max-width:1000px){
+	#doctor-list img{
+		width: 150px
+	}
+}
+
+
+#department-section{
+	background-color: #2196f312;
+}
+
+#contact-section{
+	background-color: #8bc34a24;
+}
